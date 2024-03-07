@@ -2,6 +2,10 @@
 
 This Chrome extension is a sample project demonstrating the use of Manifest V3 for building modern Chrome extensions. It includes a popup, a content script, a background script, an options page, and associated styling and scripting for these components.
 
+The project was built with ChatGPT for learning and demonstration purposes.  
+
+Refer to the shared ChatGPT chat regarding the entire step-by-step process for creating this project at: https://chat.openai.com/share/fac3be61-302c-478a-ad70-e20c951be082
+
 ## Features
 
 - **Popup**: Click on the extension icon to open a popup with a "Click me!" button.
